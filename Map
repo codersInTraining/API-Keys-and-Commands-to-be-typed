@@ -1,0 +1,6 @@
+API Key = AIzaSyCb7KXlEw373SYjLEEfktWvJZK-QvIzB_8
+
+Codes to be typed in command prompt :
+
+ionic cordova plugin add cordova-plugin-geolocation
+npm install --save @ionic-native/geolocation
