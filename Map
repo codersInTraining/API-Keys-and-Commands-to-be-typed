@@ -4,3 +4,7 @@ Codes to be typed in command prompt :
 
 ionic cordova plugin add cordova-plugin-geolocation
 npm install --save @ionic-native/geolocation
+
+//google map plugin (replace the api key with the key given above)
+$ ionic cordova plugin add cordova-plugin-googlemaps --variable API_KEY_FOR_ANDROID="YOUR_ANDROID_API_KEY_IS_HERE" --variable API_KEY_FOR_IOS="YOUR_IOS_API_KEY_IS_HERE"
+$ npm install --save @ionic-native/google-maps
