@@ -1,0 +1,4 @@
+plugin
+npm install --save ionic-long-press
+
+add the plugin to the app module imports 
