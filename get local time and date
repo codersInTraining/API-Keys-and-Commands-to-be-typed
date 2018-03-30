@@ -1,0 +1,3 @@
+npm install moment --save
+
+import moment from 'moment';
