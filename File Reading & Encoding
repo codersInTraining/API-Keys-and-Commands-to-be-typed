@@ -1,0 +1,6 @@
+ionic cordova plugin add cordova-plugin-file
+npm install --save @ionic-native/file
+
+
+ionic cordova plugin add com-badrit-base64
+$ npm install --save @ionic-native/base64
